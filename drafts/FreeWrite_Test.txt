@@ -1,0 +1,26 @@
+Hi. Welcome to Freewrite :)
+Plz read this guide.
+
+I beg of you.
+
+It's 5 min max.
+
+My name is Farza.
+
+I made this app.
+
+This is not a journaling app or a note-taking app.
+If you use it for that, you'll probably use it once or twice,
+and then never touch it again.
+
+This is a tool purely to help you freewrite.
+
+Freewriting is a writing strategy developed in 1973 — it's where you write
+continuously for a set time without worrying about grammar, spelling, or anything 
+like that. A pure stream of consciousness.
+                    
+This is a Python Rewrite of the original Freewrite app, which was made in Native Swift.
+Now this Application is cross-platform and works on Windows, Mac, and Linux.
+This is a fork of Farza's original Freewrite app!
+                    
+- Paramveer :) 
