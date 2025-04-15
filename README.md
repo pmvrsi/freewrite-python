@@ -1,4 +1,4 @@
-# hi, this is freewrite
+# hi, this is freewrite python
 
 a simple, open-source python app to freewrite.
 application is a python rewrite of the swift application by farza
